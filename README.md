@@ -1,2 +1,2 @@
 # Calculator
-Minecraft Bukkit Plugin adding simple calculator features.
+Minecraft Spigot Plugin adding simple calculator features.
